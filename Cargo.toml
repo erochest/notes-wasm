@@ -1,0 +1,9 @@
+[package]
+name = "notes"
+version = "0.1.0"
+authors = ["Eric Rochester <eric.rochester@willowtreeapps.com>"]
+
+[dependencies]
+yew = { git = "https://github.com/DenisKolodin/yew.git", branch = "master" }
+strum = "0.8.0"
+strum_macros = "0.8.0"
